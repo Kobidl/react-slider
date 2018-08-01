@@ -1,0 +1,64 @@
+{
+  "_from": "react-compound-slider",
+  "_id": "react-compound-slider@0.12.0",
+  "_inBundle": false,
+  "_integrity": "sha512-q5/VAxOLZGKqggorjmKIGsHKcDaKoAY/9Y5jQVXmLWX49VWHHHBKRMM+c4rBaVJRzg+J0K2GGR/9L91wqFYP9Q==",
+  "_location": "/react-compound-slider",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-compound-slider",
+    "name": "react-compound-slider",
+    "escapedName": "react-compound-slider",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-compound-slider/-/react-compound-slider-0.12.0.tgz",
+  "_shasum": "1c9c7d8bced19bd48ca1270771fc08c0b6d4e9a8",
+  "_spec": "react-compound-slider",
+  "_where": "D:\\examples",
+  "author": {
+    "name": "Steven Hall"
+  },
+  "bugs": {
+    "url": "https://github.com/sghall/react-compound-slider/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "d3-array": "^1.2.1",
+    "prop-types": "^15.6.1",
+    "warning": "^3.0.0"
+  },
+  "deprecated": false,
+  "description": "Futuristic react slider component",
+  "homepage": "https://github.com/sghall/react-compound-slider#readme",
+  "jsnext:main": "./index.es.js",
+  "keywords": [
+    "react",
+    "react-component",
+    "range-slider",
+    "input-range",
+    "range",
+    "slider",
+    "form",
+    "input"
+  ],
+  "license": "MIT",
+  "main": "./index.js",
+  "module": "./index.es.js",
+  "name": "react-compound-slider",
+  "peerDependencies": {
+    "react": "^15.0.0 || ^16.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sghall/react-compound-slider.git"
+  },
+  "version": "0.12.0"
+}
